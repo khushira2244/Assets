@@ -1,6 +1,6 @@
 
 
-#Emo Corner
+## Emo Corner
 
 > **Public testing notice — July 16, 2026**
 >
