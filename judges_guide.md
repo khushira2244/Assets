@@ -232,11 +232,9 @@ npx devvit upload
 ## Current Demo Notes
 
 * The hackathon version uses prepared feeling scenarios.
-* The builder timer is 60 seconds.
+* The builder timer is 74 seconds.(its very hard to minimize into 60sec)
 * One posted journey carries its own written words into the Time Room.
-* Permanent cross-session word accumulation is not enabled yet.
-* The testing subreddit must be public so judges can open the playable post.
-* The direct Reddit game-post URL should be used instead of only linking to the subreddit homepage.
+* Permanent cross-session word accumulation is enabled .
 
 ---
 
