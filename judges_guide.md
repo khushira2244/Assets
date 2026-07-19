@@ -15,6 +15,16 @@
 > If you face any issue opening or testing the experience, contact:
 >
 > **khushira2244@gmail.com**
+>
+> <img width="1672" height="941" alt="ChatGPT Image Jul 19, 2026, 09_10_42 AM (1)" src="https://github.com/user-attachments/assets/86160121-bd2e-4770-8682-3a8c5a9369d5" />
+<img width="1672" height="941" alt="ChatGPT Image Jul 19, 2026, 09_10_43 AM (2)" src="https://github.com/user-attachments/assets/2791b38c-66c7-49c6-8d1f-d5da3dd0cd41" />
+<img width="1672" height="941" alt="ChatGPT Image Jul 19, 2026, 09_10_43 AM (3)" src="https://github.com/user-attachments/assets/351f24d5-826f-4ee7-a3b7-b435150f25ea" />
+<img width="1672" height="941" alt="ChatGPT Image Jul 19, 2026, 09_10_44 AM (4)" src="https://github.com/user-attachments/assets/2a8e739f-9bf4-468a-8a4e-b35ef5a7511f" />
+<img width="1672" height="941" alt="ChatGPT Image Jul 19, 2026, 09_10_44 AM (5)" src="https://github.com/user-attachments/assets/7749e2b7-cb10-4c8f-a3b0-c0d05ab04bcc" />
+
+
+
+
 
 ## A world made by others helps a Chrononaut travel through time
 
